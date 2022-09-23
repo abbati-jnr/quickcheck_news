@@ -36,4 +36,11 @@ celery -A quickcheck_news beat -l info
 ```
 This is all development setup.
 
+## API Endpoints
+```bash
+/api/
+/api/{item_type}/
+/api/edit/pk/
+```
+
 Hope my application will be duly considered. :)
