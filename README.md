@@ -11,7 +11,7 @@ and
 manage.py migrate
 ``` 
 
-### Redis is a broker server 
+### Redis as a broker server 
 Also you need to install Redis in your machine 
 More details about redis [Redis](https://redis.io/)
 
